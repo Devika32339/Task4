@@ -1,6 +1,6 @@
 <?php
 // Set the name variable
-$name = "Arjun"; // You can change this to your name
+$name = "Devika"; // You can change this to your name
 
 // Get the current date and time
 $current_time = date('Y-m-d H:i:s');
