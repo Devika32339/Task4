@@ -6,7 +6,7 @@ fn main() {
     let now = Local::now();
 
     // Get the name from the environment or use a default
-    let name = "Arjun"; // You can change this to your name
+    let name = "Devika"; // You can change this to your name
 
     // Format the time as a string
     let formatted_time = now.format("%Y-%m-%d %H:%M:%S").to_string();
